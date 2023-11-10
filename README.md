@@ -1,4 +1,4 @@
-**## Desafio - DevQuest - Projeto Huddle**
+## Desafio - DevQuest - Projeto Huddle
 
 # Sobre:
 Este é um desafio visando criar uma landing page com seção introdutória única, buscando aprimorar habilidades de codificação em HTML e CSS, pensando, também, já na responsividade do código.
