@@ -1,0 +1,116 @@
+@media(max-width:1024px){
+    .header img{
+        margin: 0;
+    }
+    .main{
+        display: flex;
+        justify-content:flex-start;
+        margin: 30px 30px 40px 20px;
+    }
+    .main .text {
+        padding-top: 20px;
+    }
+    .main img{
+        width: 450px;
+        height: auto;
+    }
+    .main .text h1{
+        font-size: 2.5rem;
+        line-height: normal;
+    }
+    .main .text p {
+        font-size: 1.5rem;
+        line-height: normal;
+    }
+    .main .btn {
+        font-size: 1.4rem;
+        height: 4rem;
+    }
+    .footer {
+        display: flex;
+        justify-content: center;
+    }
+    .footer a,
+    .footer a .fab {
+        font-size: 1.5rem;
+    }
+}
+@media (max-with: 768px){
+    body {
+        text-align: center;
+    }
+    .main{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        margin: 0px 20px 20px 10px;
+        padding: 0;
+    }
+    .main .text{
+        padding: 0;
+    }
+    .main .text h1{
+        align-items: center;
+        text-align: center;
+    }
+    .main .text p{
+        text-align: center;
+        font-size: small;
+        margin-right: 30px;
+    }
+    .main .btn {
+        font-size:medium;
+        height: 3rem;
+        text-align: center;
+    }
+    .footer {
+        display: flex;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+    }
+}
+@media (max-width:426px){
+    body{
+        background-image: url(../images/bg-mobile.svg);
+        background-repeat: no-repeat;
+        background-position: fixed;
+    }
+    .header .logo img{
+        max-width: 20rem;
+        align-items: center;
+        padding-right: 35px;
+    }
+    .main{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .main img{
+        max-width: 100%;
+    }
+    .main .text{
+        max-width: 350px;
+        margin: auto;
+    }
+    .main .text h1{
+        margin:0;
+        padding: 15px;
+    }
+    .main .text p{
+        text-align: justify;
+        margin: 0;
+        padding: 10px;
+    }
+    .main .btn{
+        margin: 20px auto;
+    }
+    .footer{
+        display:block;
+        align-self:center;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+    }
+}
