@@ -4,10 +4,7 @@
 Este é um desafio visando criar uma landing page com seção introdutória única, buscando aprimorar habilidades de codificação em HTML e CSS, pensando, também, já na responsividade do código.
 
 # Objetivos:
-Os usuários devem ser capazes de:
-
-1. Ver o layout ideal da página dependendo do tamanho da tela do dispositivo
-2. Conferir os estados de foco para todos os elementos interativos na página
+Os usuários devem ser capazes de ver o layout ideal da página, inclusive com variações no tamanho da tela do dispositivo.
 
 # Tecnologias Utilizadas:
 - HTML
