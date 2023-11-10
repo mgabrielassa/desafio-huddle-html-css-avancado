@@ -10,8 +10,8 @@ Os usuários devem ser capazes de:
 2. Conferir os estados de foco para todos os elementos interativos na página
 
 # Tecnologias Utilizadas:
--HTML
--CSS
+- HTML
+- CSS
 
 # Percepções no desenvolvimento do projeto:
 Fiquei feliz em conseguir realizar algo "por conta própria", mas a parte da responsividade foi especialmente desafiadora. No mais, apesar de ter consciência de que não terei como decorar absolutamente tudo a respeito do desenvolvimento front, acho realmente importante tentar esses desafios como forma de aprimoramento e ganho de experiência.
